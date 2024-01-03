@@ -1,0 +1,6 @@
+From: hello@example.com
+To: tun@example.com
+Subject: Testing Email
+
+This is the body of the email.
+It can contain multiple lines of text.
